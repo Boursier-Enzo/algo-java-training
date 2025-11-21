@@ -60,6 +60,7 @@ java Main.java
 
 ## Règles d'or
 
+0. **N'utilise pas internet ni l'ia !** C'est 100% de la logique, si tu utilise des sources externes tu ne progresseras pas.
 1. **Ne lance pas le code avant d'avoir tracé** (sauf si l'exercice dit le contraire)
 2. **Écris ton traçage** sur papier ou fichier texte (pas dans ta tête)
 3. **Prédis le résultat** avant d'exécuter
