@@ -11,9 +11,9 @@
 - Boucle : res = res + t[i]
 - Return res
 
-**Nom du pattern :** ___
+**Nom du pattern :** Somme des éléments du tableau.
 
-**Résultat prédit :** func1(nombres) = ___
+**Résultat prédit :** func1(nombres) = 39
 
 ---
 
@@ -24,9 +24,9 @@
 - Boucle : si t[i] < res alors res = t[i]
 - Return res
 
-**Nom du pattern :** ___
+**Nom du pattern :** Plus petit élément du tableau.
 
-**Résultat prédit :** func2(nombres) = ___
+**Résultat prédit :** func2(nombres) = 1
 
 ---
 
@@ -37,9 +37,9 @@
 - Boucle : si t[i] > val alors res++
 - Return res
 
-**Nom du pattern :** ___
+**Nom du pattern :** Compte le nombre d'éléments strictement supérieur à une valeur.
 
-**Résultat prédit :** func3(nombres, 5) = ___
+**Résultat prédit :** func3(nombres, 5) = 3
 
 ---
 
@@ -49,9 +49,9 @@
 - Boucle : si t[i] == val alors return i
 - Après boucle : return -1
 
-**Nom du pattern :** ___
+**Nom du pattern :** Cherche un élément dans le tableau et renvoie l'index.
 
-**Résultat prédit :** func4(nombres, 5) = ___
+**Résultat prédit :** func4(nombres, 5) = 4
 
 ---
 
@@ -61,6 +61,6 @@
 - Boucle : si t[i] == val alors return true
 - Après boucle : return false
 
-**Nom du pattern :** ___
+**Nom du pattern :** Cherche si un élément est dans le tableau et renvoie true ou false.
 
-**Résultat prédit :** func5(nombres, 5) = ___
+**Résultat prédit :** func5(nombres, 5) = true
